@@ -2,7 +2,7 @@
   <h1 align="center">
     Machine Learning
     <p></p>
-    <img height="80" alt="ticket" src="https://github.com/user-attachments/assets/d4e25b51-8481-49c4-b51c-436dd94752ab" />
+    <img height="80" alt="ticket" src="https://github.com/user-attachments/assets/8c75a92a-8d51-40f9-ba16-97eed7b91538" />
   </h1>
   <p>Jupyter notebooks and code for Machine Learning concepts, implementations, and experimental learning 🧠 📙</p>
 </div>

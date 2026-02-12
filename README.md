@@ -16,130 +16,105 @@
 
 <h2>Topics covered</h2>
 
-<details>
-  <summary><strong>Data Handling & Data Collection</strong></summary>
+### Data Handling & Data Collection
 
-  - Working with CSV files  
-  - Working with JSON and SQL  
-  - API to DataFrame conversion  
-  - Web scraping using Pandas  
+- Working with CSV files  
+- Working with JSON and SQL  
+- API to DataFrame conversion  
+- Web scraping using Pandas  
 
-</details>
 
-<details>
-  <summary><strong>Data Understanding & Analysis</strong></summary>
+### Data Understanding & Analysis
 
-  - Understanding data using descriptive statistics  
-  - Univariate analysis  
-  - Bivariate analysis  
-  - Exploratory Data Analysis (EDA)  
-  - Pandas profiling  
+- Understanding data using descriptive statistics  
+- Univariate analysis  
+- Bivariate analysis  
+- Exploratory Data Analysis (EDA)  
+- Pandas profiling  
 
-</details>
 
-<details>
-  <summary><strong>Data Preprocessing & Feature Engineering</strong></summary>
+### Data Preprocessing & Feature Engineering
 
-  - Standardization  
-  - Normalization  
-  - Ordinal encoding  
-  - One-hot encoding  
-  - Handling mixed variables  
-  - Date and time feature handling  
-  - Feature construction and feature splitting  
-  - Binning and binarization  
+- Standardization  
+- Normalization  
+- Ordinal encoding  
+- One-hot encoding  
+- Handling mixed variables  
+- Date and time feature handling  
+- Feature construction and feature splitting  
+- Binning and binarization  
 
-</details>
 
-<details>
-  <summary><strong>Missing Value Treatment</strong></summary>
+### Missing Value Treatment
 
-  - Complete case analysis  
-  - Numerical data imputation  
-  - Categorical data imputation  
-  - Missing indicator  
-  - KNN imputer  
-  - Iterative imputer  
+- Complete case analysis  
+- Numerical data imputation  
+- Categorical data imputation  
+- Missing indicator  
+- KNN imputer  
+- Iterative imputer  
 
-</details>
 
-<details>
-  <summary><strong>Outlier Detection & Treatment</strong></summary>
+### Outlier Detection & Treatment
 
-  - Outlier removal using Z-score  
-  - Outlier removal using IQR method  
-  - Outlier detection using percentiles  
+- Outlier removal using Z-score  
+- Outlier removal using IQR method  
+- Outlier detection using percentiles  
 
-</details>
 
-<details>
-  <summary><strong>Pipelines & Transformers</strong></summary>
+### Pipelines & Transformers
 
-  - Column Transformer  
-  - Scikit-learn pipelines  
-  - Function Transformer  
-  - Power Transformer  
+- Column Transformer  
+- Scikit-learn pipelines  
+- Function Transformer  
+- Power Transformer  
 
-</details>
 
-<details>
-  <summary><strong>Dimensionality Reduction</strong></summary>
+### Dimensionality Reduction
 
-  - Principal Component Analysis (PCA)  
+- Principal Component Analysis (PCA)  
 
-</details>
 
-<details>
-  <summary><strong>Regression Algorithms</strong></summary>
+### Regression Algorithms
 
-  - Simple Linear Regression  
-  - Multiple Linear Regression  
-  - Polynomial Regression  
-  - Regularized Linear Models  
-  - Lasso Regression  
-  - ElasticNet Regression  
+- Simple Linear Regression  
+- Multiple Linear Regression  
+- Polynomial Regression  
+- Regularized Linear Models  
+- Lasso Regression  
+- ElasticNet Regression  
 
-</details>
 
-<details>
-  <summary><strong>Optimization Techniques</strong></summary>
+### Optimization Techniques
 
-  - Gradient Descent  
-  - Types of Gradient Descent  
+- Gradient Descent  
+- Types of Gradient Descent  
 
-</details>
 
-<details>
-  <summary><strong>Classification Algorithms</strong></summary>
+### Classification Algorithms
 
-  - Logistic Regression  
+- Logistic Regression  
 
-</details>
 
-<details>
-  <summary><strong>Model Evaluation</strong></summary>
+### Model Evaluation
 
-  - Regression metrics  
-  - Classification metrics  
+- Regression metrics  
+- Classification metrics  
 
-</details>
 
-<details>
-  <summary><strong>Ensemble Learning</strong></summary>
+### Ensemble Learning
 
-  - Random Forest  
-  - AdaBoost  
-  - Gradient Boosting  
-  - Stacking and Blending  
+- Random Forest  
+- AdaBoost  
+- Gradient Boosting  
+- Stacking and Blending  
 
-</details>
 
-<details>
-  <summary><strong>Unsupervised Learning</strong></summary>
+### Unsupervised Learning
 
-  - K-Means clustering  
+- K-Means clustering  
 
-</details>
+> This repository will also cover additional topics beyond those listed above, with continuous updates and improvements.
 
 <h2>Tech stack</h2>
 

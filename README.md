@@ -7,14 +7,14 @@
   <p>Jupyter notebooks and code for Machine Learning concepts, implementations, and experimental learning 🧠 📙</p>
 </div>
 
-<h2>Overview</h2>
+<h2>📋 Overview</h2>
 
 - Practical, clean, and structured implementations
 - Designed for continuous learning and future expansion
 - Covers core Machine Learning concepts with practical implementations
 - Focuses on strengthening Machine Learning fundamentals
 
-<h2>Topics covered</h2>
+<h2>📚 Topics covered</h2>
 
 ### Data Handling & Data Collection
 
@@ -116,7 +116,7 @@
 
 > This repository will also cover additional topics beyond those listed above, with continuous updates and improvements.
 
-<h2>Tech stack</h2>
+<h2>🛠️ Tech stack</h2>
 
 - Python
 - Env: Jupyter Notebook
@@ -124,7 +124,7 @@
 - Matplotlib, Seaborn
 - scikit-learn
 
-<h2>Installation and Setup</h2>
+<h2>⚙️ Installation and Setup</h2>
 
 - Python installed (Python 3.8+)
 - VS Code installed
@@ -152,7 +152,7 @@ cd Machine-Learning-Notebooks
 
 - Run the notebook cells directly — all required libraries are pre-installed in the Colab environment
 
-## Educational Value
+## 🎓 Educational Value
 
 This repository is designed for:
 
@@ -161,7 +161,7 @@ This repository is designed for:
 - **Developers:** To understand coding and workflows in ML  
 - **Educators:** To use as a reference for teaching ML concepts
 
-<h2>Contributing</h2>
+<h2>🤝 Contributing</h2>
 
 Contributions are welcome to improve this repository as a learning resource for Machine Learning. You can help by adding notebooks, improving code, fixing typos, or enhancing explanations.
 
@@ -198,7 +198,7 @@ git push origin feature-name
 
 7. **Open a Pull Request** – Open a PR to the main repository and describe your contribution
 
-## Acknowledgments
+## 🙏 Acknowledgments
 
 - **ML Community:** For creating and sharing open-source tutorials and datasets  
 - **Educational Platforms:** For providing structured courses and learning resources  
@@ -207,7 +207,7 @@ git push origin feature-name
 
 ---
 
-## Contact
+## ✉️ Contact
 
 For any questions, suggestions, or contributions, feel free to open an issue or start a discussion in this repository. Collaboration and learning together are always welcome.
 

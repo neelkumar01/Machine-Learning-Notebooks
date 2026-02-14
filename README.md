@@ -200,10 +200,9 @@ git push origin feature-name
 
 ## 🙏 Acknowledgments
 
-- **ML Community:** For creating and sharing open-source tutorials and datasets  
-- **Educational Platforms:** For providing structured courses and learning resources  
-- **Researchers & Educators:** For advancing machine learning concepts and making them accessible  
-- **Contributors:** For improving this repository and helping others learn  
+- ML community - for resources, content, research
+- CampusX youtube channel
+- Github repositories providing high quality codebase and resources
 
 ---
 

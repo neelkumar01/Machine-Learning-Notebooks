@@ -7,7 +7,7 @@ Each notebook focuses on a specific idea and explores its assumptions, intuition
 
 
 ### Approach
-Learning from first principles with focus on underlying mathematics 
+Learning from first principles with focus on underlying mathematics ❤️
 
 
 
